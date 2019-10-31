@@ -1,6 +1,3 @@
-getvollist.py
-Today
-9:07 AM
 from pprint import pprint
 
 from googleapiclient import discovery
