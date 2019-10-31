@@ -1,10 +1,3 @@
-getallstorage.py
-Today
-9:06 AM
-J
-You uploaded an item
-Text
-createstorage.py
 from google.cloud import storage
 
 # Instantiates a client
